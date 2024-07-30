@@ -1,0 +1,27 @@
+h1 {
+  font-size: 70px;
+  color: rgb(215, 26, 26);
+  margin-bottom: 70px;
+}
+
+p {
+  font-size: 30px;
+  color: rgba(211, 122, 122, 0.575);
+  margin-left: 200px;
+}
+
+img {
+  margin-left: 50px;
+}
+
+button {
+  font-size: 15px;
+  margin-left: 330px;
+  margin-bottom: 40px;
+  color: blue;
+}
+
+a {
+  font-size: 20px;
+  color: rgba(39, 195, 238, 0.999);
+}
