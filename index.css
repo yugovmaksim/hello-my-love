@@ -25,3 +25,10 @@ a {
   font-size: 20px;
   color: rgba(39, 195, 238, 0.999);
 }
+
+.output {
+  font-size: 35px;
+  margin-bottom: 25px;
+  margin-left: 40px;
+  color: rgba(196, 237, 14, 0.72);
+}
